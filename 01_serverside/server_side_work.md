@@ -15,11 +15,6 @@ Server side mysql basic operate;
 #Content
 1. change the listening IP, in Console "sudo nano /etc/mysql/my.cnf", change default ' 127.0.0.1' to "0.0.0.0", "sudo service mysql restart";
 2. basic command [ling](http://www.tecmint.com/mysqladmin-commands-for-database-administration-in-linux/);
-1. use pi filler(for mac) install the OS img into SD card, [headless guide](https://learn.adafruit.com/beaglebone-black-installing-operating-systems/mac-os-x)
-2. For windows or other envirment, please check [link](http://www.tweaking4all.com/hardware/raspberry-pi/install-img-to-sd-card/)
-
-#Clinet
-1. "install mysql-python", [link](http://stackoverflow.com/questions/372885/how-do-i-connect-to-a-mysql-database-in-python);
 
 
 #Issue
